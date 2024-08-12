@@ -9,3 +9,4 @@ vi students_test.csv
 ./insert_data.sh
 ./insert_data.sh
 ls --color=auto -l
+rm students_test.csv
