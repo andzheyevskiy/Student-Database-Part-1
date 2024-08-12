@@ -10,3 +10,4 @@ vi students_test.csv
 ./insert_data.sh
 ls --color=auto -l
 rm students_test.csv
+rm courses_test.csv
